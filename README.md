@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Honscode
+- 👀 I’m interested in programing
+- 🌱 I’m currently learning c++
